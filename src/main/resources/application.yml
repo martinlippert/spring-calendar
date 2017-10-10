@@ -14,3 +14,4 @@ calendar:
   release:
     project_aliases:
       'Toolsuite Distribution': STS
+      'Sts4' : 'Spring Tools 4'
